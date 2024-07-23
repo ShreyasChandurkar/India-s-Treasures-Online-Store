@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Computers",
+    "brand": "ACER",
+    "price": 999.99,
+    "stock": 15,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+    "image": "../images/lapi.png"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Mobiles",
+    "brand": "Nothing",
+    "price": 599.99,
+    "stock": 48,
+    "image": "../images/iphone.png",
+    "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+  },
+  {
+    "id": 3,
+    "name": "BT Headphones",
+    "category": "Audio",
+    "brand": "Hammer",
+    "price": 149.99,
+    "stock": 30,
+    "image": "../images/headphone.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 4,
+    "name": "Gaming PC",
+    "category": "Computers",
+    "brand": "Nvidia",
+    "price": 2199.99,
+    "stock": 9,
+    "image": "../images/gaming.png",
+    "description": "Intel i7 CPU, NVIDIA RTX 3080 GPU, 16GB RAM, 1TB SSD, liquid cooling, RGB lighting, 144Hz monitor, mechanical keyboard, wireless gaming mouse."
+  },
+  {
+    "id": 5,
+    "name": "Air Conditioner",
+    "category": "Appliances",
+    "brand": "LG",
+    "price": 1749.99,
+    "stock": 12,
+    "image": "../images/AC.png",
+    "description": "Model 1.5 Ton 5 Star Split AC (185CYA): It offers a cooling capacity of 5050 W, utilizes a high EER rotary compressor, and includes features like swing mode operation."
+  },
+  {
+    "id": 6,
+    "name": "All in One PC",
+    "category": "Computers",
+    "brand": "Dell",
+    "price": 1999.99,
+    "stock": 16,
+    "image": "../images/advance.png",
+    "description": "Compact, powerful processor, large display, ample storage, integrated webcam, wireless connectivity, ergonomic keyboard and mouse, sleek design."
+  },
+  {
+    "id": 7,
+    "name": "Wireless",
+    "category": "Audio",
+    "brand": "Boat",
+    "price": 199.99,
+    "stock": 40,
+    "image": "../images/headphoneEcom.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek Silver color."
+  },
+  {
+    "id": 8,
+    "name": "Iphone",
+    "category": "Mobiles",
+    "brand": "Apple",
+    "price": 1099.99,
+    "stock": 10,
+    "image": "../images/mobiles.png",
+    "description": "Apple iPhone: 6.1-inch display, Face ID, three cameras, A14 Bionic chip, 5G connectivity, iOS 14."
+  },
+  {
+    "id": 9,
+    "name": "Convertable Laptop",
+    "category": "Computers",
+    "brand": "HP",
+    "price": 1499.99,
+    "stock": 31,
+    "image": "../images/conlaptop.png",
+    "description": "Convertible laptop with Intel Core i5 processor, 8GB RAM, 256GB SSD, 13.3' touchscreen display, Windows 10 OS."
+  },
+  {
+    "id": 10,
+    "name": "Dishwasher",
+    "category": "Appliances",
+    "brand": "Siemens",
+    "price": 1699.99,
+    "stock": 15,
+    "image": "../images/washer.png",
+    "description": "Dishwasher with Intensive Kadhai Programme for greasy utensils, 52dB Noise Level, 6 Wash Programmes, and quick drying options. Save water (10L/cycle), get clean, dry dishes in 59 minutes."
+  },
+  {
+    "id": 11,
+    "name": "Refrigerator",
+    "category": "Appliances",
+    "brand": "Whirpool",
+    "price": 1999.99,
+    "stock": 11,
+    "image": "../images/fridge2.png",
+    "description": "Experience more space with Spacemax Technology, enjoy fresh food with All-around Cooling, and benefit from a DIT Compressor for energy efficiency - all supported by a seamless and sleek design."
+  },
+  {
+    "id": 12,
+    "name": "Washing Machine",
+    "category": "Appliances",
+    "brand": "IFB",
+    "price": 1849.99,
+    "stock": 18,
+    "image": "../images/wash.png",
+    "description": "Energy-efficient 7 kg front load washer with Hygiene Steam/direct-drive tech for superior wash quality. 5-star energy rating, low energy and water consumption- ideal for 3-4 member households."
+  }
+]
